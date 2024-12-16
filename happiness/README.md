@@ -32,7 +32,12 @@ Generosity                          float64
 Perceptions of corruption           float64
 Positive affect                     float64
 Negative affect                     float64
-Cluster                               int32   '''
+Cluster                               int32
+
+'''
+
+
+
 ##Summary Statistics
 '''       Country name         year  Life Ladder  Log GDP per capita  Social support  Healthy life expectancy at birth  Freedom to make life choices   Generosity  Perceptions of corruption  Positive affect  Negative affect
 count          2363  2363.000000  2363.000000         2335.000000     2350.000000                       2300.000000                   2327.000000  2282.000000                2238.000000      2339.000000      2347.000000
