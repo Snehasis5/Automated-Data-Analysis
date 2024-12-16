@@ -1,3 +1,4 @@
+Analysis Report
 Columns and types:
 
 date             object
@@ -31,6 +32,12 @@ by               262
 overall            0
 quality            0
 repeatability      0
+Correlation Matrix
+Correlation Matrix
+
+Clustering Results
+Cluster Pairplot
+
 
 Narrative Analysis:
 
